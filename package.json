@@ -1,5 +1,6 @@
 {
-  "name": "https://sayedkhalil.github.io/react-project/",
+  "homepage": "https://sayedkhalil.github.io/react-project/",
+  "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
