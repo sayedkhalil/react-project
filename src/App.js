@@ -12,7 +12,7 @@ class App extends Component {
   return (
    <BrowserRouter>
      <Nav />
-     <Route exact path ="/" component ={Hh}/>
+     <Route  path ="/home" component ={Hh}/>
      <Route  path ="/Contact" component ={Contact}/>
     <Footer />
      </BrowserRouter>
